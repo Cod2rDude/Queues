@@ -55,5 +55,9 @@
     // To improve performance
     "extensions.experimental.affinity": {
         "vscodevim.vim": 1
-    }
+    },
+    "colorizedManager.variantId": "citrine",
+    "workbench.preferredLightColorTheme": "🔆 Colorized Light 05 - Citrine",
+    "workbench.preferredDarkColorTheme": "🌙 Colorized Dark 05 - Citrine",
+    "workbench.colorTheme": "🌙 Colorized Dark 05 - Citrine"
 }
